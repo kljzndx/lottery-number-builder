@@ -1,7 +1,3 @@
-# Vue 3 + Vite
+此项目是我在 2023年10月初 为我的一个做彩票生意的人做的。我曾经给他做过人肉扒手，就是他提供一个网站后台地址，然后我来手动录入那些个用户数据，至于为啥不用程序呢，因为我那时候还不会啊。由此我从他那赚到了一点钱，算下来总共应该有1000块钱了。所以私底下我都叫他老板的。
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+既然是以前的老板发话 那我肯定得做了，而且当初他还说要帮我卖这个软件，所以我就更有动力了，我记得是搞了3天就把核心功能给搓出来了，结果做好之后给他验证了下，然后他说这不是他想要的，这数值太平均了，他想要的是有那么两三个号码能达到满金额，然后我说“这我搞不了，我不是搞数学的”，于是这事就黄了，当初说要给的钱也没给，后来就再没消息了。
